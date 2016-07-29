@@ -5,7 +5,10 @@ p {
 	font-size: 1em;
 	font-family: Arial;
 }
+#bodydiv{
+	vertical-align: center;
 
+}
 #Banner{
 	letter-spacing: 3px;
 	border: dashed 5px;
@@ -26,4 +29,16 @@ p {
 
 }
 
+.centerimg{
+	vertical-align: center;
+	display: block;
+
+}
+
+.centertext{
+	text-align: center;
+	vertical-align: center;
+	display: inline-block;
+	
+}
 
