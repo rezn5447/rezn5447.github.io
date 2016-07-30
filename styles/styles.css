@@ -19,9 +19,17 @@ textarea{
 	width: 200px;
 	height: 100px;
 
+	display: inline-block;
+	vertical-align: center;
+	width: 25%;
+	padding: 10px;
+	margin: auto;
+	float: left;
+
 }
 #bodydiv{
 	vertical-align: center;
+
 
 }
 #banner{
@@ -37,6 +45,7 @@ textarea{
 }
 
 #headerimg{
+
 	width: 90%;
 	display: inline-block;
 	margin: 0 auto;
@@ -47,9 +56,8 @@ textarea{
 .centerimg{
 	vertical-align: center;
 	display: block;
+
 	margin:0 auto;
-
-
 }
 
 .centertext{
@@ -85,8 +93,17 @@ a:visited{
 	}
 
 
+
+#formdiv{
+	display: block;
+	width: 500px;
+	float: left;
 }
 
+link:visited{
+color: green;
 
+
+}
 
 
